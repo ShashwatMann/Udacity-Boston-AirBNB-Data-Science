@@ -3,10 +3,17 @@
 ## Objective
 As my first project for Udacity's Data Science Nanodegree, I worked on the data of AirBNB in Boston. There were a few questions I had in mind regarding the dataset that I tried to find. These Questions were the following:
 > The correlation between price and the number of accomodates.
+
 > The correlation between price and the number of beds
+
 > Total number rentals in a month
+
 > Correlation between review scores and prices based on neighbourhood
+
 > Correlation of price with the response rate of the host and reviews
+
+I have also written a Medium Blog Post about it which can be accessed here.
+https://medium.com/@shashwat.mann/i-completed-my-first-udacity-project-on-data-science-here-is-what-i-found-c4af1161b0f5
 
 ## Libraries Used
 
