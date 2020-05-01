@@ -44,4 +44,8 @@ https://medium.com/@shashwat.mann/i-completed-my-first-udacity-project-on-data-s
 
 > With increase in Accomodates and beds, the the price too increases
 
-> High host response rate to the customers gives a higher review score which further leads to its higher price.
+> The plot above shows the following:
+
+> A lot of them have a high host response rate which also shows its correlation with a high host acceptance rate
+> A high host response rate also gets you a higher chance of a higher review score
+> A high price also gives a higher chance of getting a higher review probably because either the place of rent is actually good or it could also be psychological
