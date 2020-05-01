@@ -13,6 +13,7 @@ As my first project for Udacity's Data Science Nanodegree, I worked on the data 
 > Correlation of price with the response rate of the host and reviews
 
 I have also written a Medium Blog Post about it which can be accessed here.
+
 https://medium.com/@shashwat.mann/i-completed-my-first-udacity-project-on-data-science-here-is-what-i-found-c4af1161b0f5
 
 ## Libraries Used
